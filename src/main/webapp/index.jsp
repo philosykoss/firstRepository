@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>githyb연동 프로젝트</h1>
+	<h1>githb연동 프로젝트</h1>
 </body>
 </html>
